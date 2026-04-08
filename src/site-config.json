@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Fence Factory",
+    "phone": "+13479225744",
+    "category": "fence company",
+    "city": "New York",
+    "state": "NY"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "NYC's Trusted Fence Experts",
+      "heroSubline": "Durable, custom fences built to withstand New York's toughest conditions. Quality craftsmanship and reliable service, guaranteed.",
+      "aboutTitle": "Crafting Security and Style Across NYC",
+      "aboutText": [
+        "Fence Factory started as a small team of dedicated craftsmen, driven by a passion for delivering exceptional fencing solutions throughout the five boroughs. We've grown steadily, always prioritizing quality materials and meticulous installation.",
+        "We believe in doing things right the first time. Our approach combines proven techniques with a commitment to understanding each client's unique needs and aesthetic preferences. We prioritize open communication and transparent pricing.",
+        "Fence Factory is proud to be a part of the New York community. We source materials locally whenever possible, supporting local businesses and minimizing our environmental impact. We actively participate in community improvement projects."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Installation",
+          "description": "Precise and secure fence installation by experienced professionals."
+        },
+        {
+          "title": "Custom Designs",
+          "description": "Tailored fencing solutions to match your property's style and security needs."
+        },
+        {
+          "title": "Durable Materials",
+          "description": "Only the highest-quality materials that stand up to New York weather."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "Prompt, professional, and dependable service from start to finish."
+        }
+      ],
+      "ctaHeadline": "Get Your Free Fence Estimate Today!",
+      "ctaSubline": "Contact us now to discuss your project and receive a no-obligation quote."
+    },
+    "services": [
+      {
+        "slug": "wood-fence-installation",
+        "name": "Wood Fence Installation",
+        "shortDescription": "Classic wood fences for privacy and curb appeal.",
+        "description": "Wood fences offer a timeless aesthetic and natural beauty that complements any New York property. At Fence Factory, we specialize in crafting durable and visually appealing wood fences tailored to your specific needs. We offer a variety of wood types, including pressure-treated pine, cedar, and redwood, ensuring resistance to rot, insects, and the harsh New York climate. \n\nOur skilled craftsmen handle every step of the installation process, from precise post setting to expert board placement. We pay close attention to detail, ensuring straight lines, secure connections, and a flawless finish. Whether you're seeking a traditional picket fence, a privacy fence, or a decorative accent, we'll create a wood fence that enhances your property's value and provides lasting enjoyment. We also handle any necessary permits and inspections, making the process hassle-free for you. \n\nProper staining and sealing are crucial for protecting your wood fence from the elements. We offer professional staining and sealing services using high-quality products designed to withstand New York's seasonal changes, preventing warping, cracking, and fading.",
+        "process": [
+          "Step 1: Site Assessment and Design Consultation",
+          "Step 2: Material Selection and Permitting",
+          "Step 3: Precise Post Setting and Framework Construction",
+          "Step 4: Board Installation, Staining, and Sealing"
+        ],
+        "benefits": [
+          "Enhanced Privacy and Security",
+          "Increased Property Value",
+          "Natural Aesthetic Appeal",
+          "Customizable Designs"
+        ],
+        "faq": [
+          {
+            "question": "How long will a wood fence last in New York?",
+            "answer": "With proper maintenance, a well-constructed wood fence can last 15-20 years in New York. Regular staining and sealing are essential to protect it from the elements."
+          },
+          {
+            "question": "What type of wood is best for fences in NYC?",
+            "answer": "Pressure-treated pine and cedar are excellent choices for fences in NYC. They are naturally resistant to rot and insects, making them ideal for our humid climate."
+          },
+          {
+            "question": "Do I need a permit to build a fence in New York City?",
+            "answer": "Yes, in most cases, you will need a permit to build a fence in New York City. We can handle the permit application process for you."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-fence-installation",
+        "name": "Vinyl Fence Installation",
+        "shortDescription": "Low-maintenance vinyl fences for lasting beauty and durability.",
+        "description": "Vinyl fences offer a practical and attractive fencing solution for New York homeowners. Known for their exceptional durability and minimal maintenance requirements, vinyl fences are an ideal choice for busy individuals seeking a long-lasting and aesthetically pleasing boundary. At Fence Factory, we provide expert vinyl fence installation services, ensuring a flawless finish and years of worry-free enjoyment.\n\nOur vinyl fences are crafted from high-quality, UV-resistant materials that withstand the harsh New York sun, preventing fading, cracking, and warping. Unlike wood fences, vinyl fences never require painting or staining, saving you time and money on upkeep. A simple wash with soap and water is all it takes to keep your vinyl fence looking its best. We offer a wide range of styles and colors to complement your home's architecture and personal preferences.\n\nFrom classic picket fences to privacy fences and decorative accents, we can create a custom vinyl fence that meets your specific needs. Our experienced installers ensure precise post setting, secure connections, and a seamless finish. We handle all aspects of the installation process, including site preparation, permitting, and inspections, making the experience as smooth and stress-free as possible. Choose Fence Factory for a vinyl fence that enhances your property's value and provides lasting beauty.",
+        "process": [
+          "Step 1: Site Survey and Design Consultation",
+          "Step 2: Material Selection and Permitting",
+          "Step 3: Professional Post Setting and Framework Assembly",
+          "Step 4: Panel Installation and Final Inspection"
+        ],
+        "benefits": [
+          "Exceptional Durability and Longevity",
+          "Minimal Maintenance Requirements",
+          "Wide Range of Styles and Colors",
+          "Resistant to Fading, Cracking, and Warping"
+        ],
+        "faq": [
+          {
+            "question": "How long will a vinyl fence last in New York?",
+            "answer": "A high-quality vinyl fence can last 30 years or more in New York with minimal maintenance."
+          },
+          {
+            "question": "Does vinyl fencing fade in the sun?",
+            "answer": "Our vinyl fences are made with UV-resistant materials that prevent fading, even in direct sunlight."
+          },
+          {
+            "question": "Is vinyl fencing more expensive than wood fencing?",
+            "answer": "While the initial cost of vinyl fencing may be slightly higher than wood, the long-term cost is often lower due to reduced maintenance expenses."
+          }
+        ]
+      },
+      {
+        "slug": "chain-link-fence-installation",
+        "name": "Chain Link Fence Installation",
+        "shortDescription": "Affordable and secure chain link fences for residential and commercial properties.",
+        "description": "Chain link fences provide a cost-effective and reliable security solution for residential and commercial properties in New York. Known for their durability and ease of installation, chain link fences offer a practical way to define boundaries, secure property, and protect pets and children. Fence Factory specializes in professional chain link fence installation, ensuring a secure and aesthetically pleasing barrier.\n\nWe offer a variety of chain link fence options, including galvanized steel, vinyl-coated, and black powder-coated, to meet your specific needs and preferences. Our galvanized steel fences provide exceptional strength and corrosion resistance, while our vinyl-coated and powder-coated options offer enhanced aesthetics and added protection against the elements. We can customize your chain link fence with privacy slats, gates, and other accessories to enhance its functionality and appearance.\n\nOur experienced installers ensure precise post setting, secure connections, and a taut, uniform mesh. We handle all aspects of the installation process, including site preparation, permitting, and inspections, making the experience as seamless and stress-free as possible. Whether you need a chain link fence for your backyard, your business, or a construction site, Fence Factory delivers quality workmanship and reliable service.",
+        "process": [
+          "Step 1: Site Evaluation and Design Planning",
+          "Step 2: Material Selection and Permitting",
+          "Step 3: Precise Post Setting and Concrete Anchoring",
+          "Step 4: Chain Link Mesh Installation and Tensioning"
+        ],
+        "benefits": [
+          "Affordable Security Solution",
+          "Durable and Long-Lasting",
+          "Easy to Install and Maintain",
+          "Versatile Applications for Residential and Commercial Properties"
+        ],
+        "faq": [
+          {
+            "question": "How long does a chain link fence typically last?",
+            "answer": "A galvanized steel chain link fence can last 20-30 years or more with minimal maintenance."
+          },
+          {
+            "question": "Can I add privacy slats to a chain link fence?",
+            "answer": "Yes, we offer a variety of privacy slats that can be easily installed to enhance the privacy of your chain link fence."
+          },
+          {
+            "question": "What is the difference between galvanized and vinyl-coated chain link?",
+            "answer": "Galvanized chain link is coated with zinc for corrosion resistance, while vinyl-coated chain link has an added layer of vinyl for enhanced aesthetics and protection."
+          }
+        ]
+      },
+      {
+        "slug": "aluminum-fence-installation",
+        "name": "Aluminum Fence Installation",
+        "shortDescription": "Elegant and rust-proof aluminum fences for a sophisticated look.",
+        "description": "Aluminum fences offer a sophisticated and low-maintenance fencing solution for discerning New York homeowners. Known for their elegant appearance and rust-proof properties, aluminum fences enhance curb appeal while providing security and defining property lines. At Fence Factory, we specialize in professional aluminum fence installation, ensuring a flawless finish and lasting beauty.\n\nOur aluminum fences are crafted from high-quality, powder-coated aluminum that resists rust, corrosion, and fading, even in the harsh New York climate. We offer a wide range of styles and colors to complement your home's architecture and personal preferences. From traditional ornamental designs to sleek, modern styles, we can create a custom aluminum fence that meets your specific needs and aesthetic goals.\n\nOur experienced installers ensure precise post setting, secure connections, and a seamless finish. We handle all aspects of the installation process, including site preparation, permitting, and inspections, making the experience as smooth and stress-free as possible. Choose Fence Factory for an aluminum fence that enhances your property's value and provides lasting elegance.",
+        "process": [
+          "Step 1: Design Consultation and Site Assessment",
+          "Step 2: Material Selection and Permitting",
+          "Step 3: Precise Post Setting and Concrete Footings",
+          "Step 4: Panel Installation and Final Inspection"
+        ],
+        "benefits": [
+          "Elegant and Sophisticated Appearance",
+          "Rust-Proof and Corrosion-Resistant",
+          "Low-Maintenance and Long-Lasting",
+          "Wide Range of Styles and Colors"
+        ],
+        "faq": [
+          {
+            "question": "Will an aluminum fence rust?",
+            "answer": "No, aluminum fences are naturally rust-proof and corrosion-resistant."
+          },
+          {
+            "question": "How long will an aluminum fence last?",
+            "answer": "A high-quality aluminum fence can last 30 years or more with minimal maintenance."
+          },
+          {
+            "question": "Can I customize the look of my aluminum fence?",
+            "answer": "Yes, we offer a wide range of styles, colors, and accessories to customize the look of your aluminum fence."
+          }
+        ]
+      },
+      {
+        "slug": "fence-repair",
+        "name": "Fence Repair & Maintenance",
+        "shortDescription": "Reliable fence repair services to keep your fence in top condition.",
+        "description": "Even the most durable fences require occasional repairs and maintenance to ensure their longevity and functionality. Fence Factory offers comprehensive fence repair and maintenance services throughout New York, addressing issues such as damaged posts, broken boards, sagging gates, and general wear and tear. Our experienced technicians provide prompt and reliable service, restoring your fence to its optimal condition.\n\nWe handle all types of fence repairs, from minor fixes to major overhauls. Whether your wood fence has suffered from rot or insect damage, your vinyl fence has cracked from impact, or your chain link fence has been damaged by a storm, we have the expertise and resources to restore it. We use high-quality materials and proven techniques to ensure lasting repairs.\n\nIn addition to repairs, we also offer routine maintenance services, such as staining, sealing, and pressure washing, to protect your fence from the elements and extend its lifespan. Regular maintenance can prevent costly repairs down the road and keep your fence looking its best. Contact Fence Factory for all your fence repair and maintenance needs.",
+        "process": [
+          "Step 1: Thorough Inspection and Damage Assessment",
+          "Step 2: Detailed Repair Plan and Cost Estimate",
+          "Step 3: Professional Repair and Replacement of Damaged Components",
+          "Step 4: Final Inspection and Quality Assurance"
+        ],
+        "benefits": [
+          "Extend the Lifespan of Your Fence",
+          "Maintain Security and Privacy",
+          "Enhance Curb Appeal",
+          "Prevent Costly Replacements"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my fence inspected?",
+            "answer": "We recommend having your fence inspected at least once a year to identify and address any potential problems early on."
+          },
+          {
+            "question": "What are the signs that my fence needs repair?",
+            "answer": "Signs that your fence needs repair include leaning posts, broken boards, sagging gates, and visible signs of rot or insect damage."
+          },
+          {
+            "question": "Can you repair any type of fence?",
+            "answer": "Yes, we have experience repairing all types of fences, including wood, vinyl, chain link, and aluminum."
+          }
+        ]
+      },
+      {
+        "slug": "gate-installation-repair",
+        "name": "Gate Installation & Repair",
+        "shortDescription": "Secure and stylish gates for residential and commercial properties.",
+        "description": "A well-functioning gate is essential for security, convenience, and curb appeal. Fence Factory provides expert gate installation and repair services throughout New York, ensuring that your gates are secure, reliable, and aesthetically pleasing. We install and repair all types of gates, including driveway gates, pedestrian gates, and security gates, for both residential and commercial properties.\n\nWe offer a wide range of gate styles and materials to match your fence and complement your property's architecture. From traditional wood gates to modern metal gates, we can create a custom gate that meets your specific needs and preferences. We also offer automated gate systems for added convenience and security.\n\nOur experienced technicians handle all aspects of gate installation and repair, including hinge replacement, latch adjustment, and opener repair. We use high-quality materials and proven techniques to ensure lasting performance. Whether you need a new gate installed or your existing gate repaired, Fence Factory delivers quality workmanship and reliable service.",
+        "process": [
+          "Step 1: Site Evaluation and Design Consultation",
+          "Step 2: Material Selection and Gate Customization",
+          "Step 3: Precise Installation and Hardware Adjustment",
+          "Step 4: Automated System Integration (if applicable)"
+        ],
+        "benefits": [
+          "Enhanced Security and Privacy",
+          "Convenient Access Control",
+          "Improved Curb Appeal",
+          "Increased Property Value"
+        ],
+        "faq": [
+          {
+            "question": "What type of gate is best for my property?",
+            "answer": "The best type of gate for your property depends on your specific needs and preferences. We can help you choose the right style, material, and features to meet your requirements."
+          },
+          {
+            "question": "Can you automate my existing gate?",
+            "answer": "Yes, we can automate most existing gates with a compatible gate opener system."
+          },
+          {
+            "question": "How often should I have my gate serviced?",
+            "answer": "We recommend having your gate serviced at least once a year to ensure proper operation and prevent costly repairs."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "New York",
+        "slug": "new-york-ny",
+        "state": "NY",
+        "content": "Fence Factory is proud to offer comprehensive fencing solutions to homeowners and businesses throughout New York City. From classic wood fences to modern metal designs, we provide durable and aesthetically pleasing options to enhance your property's security and curb appeal. Our experienced team is familiar with the unique challenges and regulations of working in NYC, ensuring a smooth and efficient installation process.\n\nWe understand the importance of quality and reliability in a bustling urban environment. Fence Factory uses only the finest materials and employs skilled craftsmen to deliver exceptional results. Whether you need a privacy fence for your backyard oasis or a security fence for your commercial property, we're committed to exceeding your expectations.",
+        "localContext": "New York City's diverse neighborhoods and architectural styles demand a wide range of fencing options, and Fence Factory is equipped to meet those needs. We provide services across all five boroughs.",
+        "nearbyAreas": [
+          "Jersey City",
+          "Hoboken",
+          "Newark"
+        ]
+      },
+      {
+        "city": "Yonkers",
+        "slug": "yonkers-ny",
+        "state": "NY",
+        "content": "Fence Factory extends its premium fencing services to the vibrant city of Yonkers. We cater to the diverse needs of Yonkers residents, offering a wide array of fencing styles to complement any property. Whether you're looking to enhance your home's curb appeal, create a safe space for your family, or secure your business, Fence Factory has the perfect solution.\n\nOur commitment to quality craftsmanship and customer satisfaction sets us apart. We use only the highest-grade materials and employ experienced installers to ensure lasting beauty and performance. From classic wood fences to durable vinyl and chain-link options, we'll help you find the perfect fence to meet your needs and budget.",
+        "localContext": "Yonkers, with its mix of residential and commercial properties, requires versatile fencing solutions, and Fence Factory is ready to provide them. We understand the local building codes and regulations to ensure a hassle-free installation.",
+        "nearbyAreas": [
+          "Bronxville",
+          "Mount Vernon",
+          "Riverdale"
+        ]
+      },
+      {
+        "city": "White Plains",
+        "slug": "white-plains-ny",
+        "state": "NY",
+        "content": "Fence Factory is delighted to offer its top-notch fencing services to the residents and businesses of White Plains. We understand the aesthetic sensibilities of this beautiful city and provide a wide range of fencing options to enhance your property's value and security. Whether you desire a traditional wood fence, a low-maintenance vinyl fence, or a robust metal fence, we have the expertise to bring your vision to life.\n\nWe are committed to providing exceptional customer service from start to finish. Our team will work closely with you to understand your specific needs and preferences, ensuring that you receive a fence that perfectly complements your property and meets your budget. Fence Factory prides itself on delivering quality workmanship and lasting results.",
+        "localContext": "White Plains features a blend of historic homes and modern developments, requiring fencing solutions that are both stylish and functional, which Fence Factory can provide.",
+        "nearbyAreas": [
+          "Scarsdale",
+          "Hartsdale",
+          "Rye"
+        ]
+      },
+      {
+        "city": "Mount Vernon",
+        "slug": "mount-vernon-ny",
+        "state": "NY",
+        "content": "Fence Factory proudly serves the community of Mount Vernon, providing quality fencing solutions for homes and businesses. We understand the specific needs of Mount Vernon residents and offer a wide selection of fence styles to match any property. From enhancing your backyard privacy to securing your commercial premises, Fence Factory is your trusted partner.\n\nWe are dedicated to using only the best materials and employing experienced installers to ensure that your fence is built to last. Our team will handle every aspect of the project, from initial consultation to final inspection, ensuring a seamless and stress-free experience. Choose Fence Factory for reliable and beautiful fencing solutions in Mount Vernon.",
+        "localContext": "Mount Vernon's diverse architecture calls for varied fencing solutions, and Fence Factory is prepared to deliver the perfect fit for every property.",
+        "nearbyAreas": [
+          "Bronx",
+          "Pelham",
+          "New Rochelle"
+        ]
+      },
+      {
+        "city": "New Rochelle",
+        "slug": "new-rochelle-ny",
+        "state": "NY",
+        "content": "Fence Factory is pleased to offer its professional fencing services to the community of New Rochelle. We provide a diverse range of fencing options to meet the unique needs of New Rochelle homeowners and businesses. Whether you're seeking to enhance your property's curb appeal, create a safe and secure environment, or simply add a touch of elegance, Fence Factory has the ideal solution.\n\nOur commitment to quality and customer satisfaction is unwavering. We use only premium materials and employ skilled craftsmen to ensure that your fence is built to withstand the elements and provide lasting beauty. From classic wood fences to modern vinyl and metal designs, we'll help you find the perfect fence to complement your property and budget.",
+        "localContext": "New Rochelle's coastal location and varied property styles necessitate durable and aesthetically pleasing fencing solutions, which Fence Factory can provide.",
+        "nearbyAreas": [
+          "Larchmont",
+          "Mamaroneck",
+          "Pelham Manor"
+        ]
+      },
+      {
+        "city": "Stamford",
+        "slug": "stamford-ny",
+        "state": "NY",
+        "content": "Fence Factory is excited to extend our fencing expertise to Stamford. We offer a comprehensive selection of fencing options designed to enhance the beauty, security, and value of your property. From traditional wood fences to contemporary metal designs, we have the perfect solution to meet your specific needs and preferences.\n\nOur team of experienced professionals is dedicated to providing exceptional customer service from initial consultation to final installation. We'll work closely with you to understand your vision and ensure that your new fence perfectly complements your property and meets your budget. Trust Fence Factory for quality workmanship and lasting results in Stamford.",
+        "localContext": "Stamford's mix of residential and commercial areas requires versatile fencing options, and Fence Factory is equipped to handle any project.",
+        "nearbyAreas": [
+          "Greenwich",
+          "Norwalk",
+          "Darien"
+        ]
+      },
+      {
+        "city": "The Bronx",
+        "slug": "the-bronx-ny",
+        "state": "NY",
+        "content": "Fence Factory is proud to serve residents and businesses throughout The Bronx with our quality fencing services. We offer a wide range of fencing options to meet the diverse needs of this vibrant borough. From enhancing your home's curb appeal to securing your commercial property, Fence Factory has the perfect solution.\n\nOur commitment to quality craftsmanship and customer satisfaction sets us apart. We use only the highest-grade materials and employ experienced installers to ensure lasting beauty and performance. From classic wood fences to durable vinyl and chain-link options, we'll help you find the perfect fence to meet your needs and budget.",
+        "localContext": "The Bronx's diverse neighborhoods and varying property sizes require tailored fencing solutions, and Fence Factory is prepared to deliver.",
+        "nearbyAreas": [
+          "Yonkers",
+          "Mount Vernon",
+          "Manhattan"
+        ]
+      },
+      {
+        "city": "Queens",
+        "slug": "queens-ny",
+        "state": "NY",
+        "content": "Fence Factory provides expert fencing services to the diverse communities of Queens. We understand the unique needs of Queens residents and businesses, offering a wide range of fence styles to match any property. Whether you're looking to enhance your backyard privacy, secure your commercial premises, or add a decorative touch, Fence Factory is your trusted partner.\n\nWe are dedicated to using only the best materials and employing experienced installers to ensure that your fence is built to last. Our team will handle every aspect of the project, from initial consultation to final inspection, ensuring a seamless and stress-free experience. Choose Fence Factory for reliable and beautiful fencing solutions in Queens.",
+        "localContext": "Queens' varied architectural styles and dense urban environment demand durable and aesthetically pleasing fencing options, which Fence Factory can provide.",
+        "nearbyAreas": [
+          "Brooklyn",
+          "Nassau County",
+          "Manhattan"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Wood Fence Installation",
+        "text": "Fence Factory did an amazing job installing my new wood fence in my backyard. The team was professional, efficient, and the fence looks fantastic! They were very communicative throughout the entire process, and the price was very reasonable. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Chain Link Fence Installation",
+        "text": "I needed a chain link fence installed around my commercial property for security purposes. Fence Factory provided a quick and affordable solution. The installation was completed within a day, and the fence is sturdy and well-built. I had a minor issue with the gate latch, but they came back and fixed it promptly.",
+        "date": "2025-04-02"
+      },
+      {
+        "name": "Jennifer L.",
+        "rating": 5,
+        "service": "Vinyl Fence Installation",
+        "text": "I am so happy with my new vinyl fence from Fence Factory! It has completely transformed my backyard. The quality of the materials is excellent, and the installation was flawless. The crew was very respectful of my property and cleaned up everything afterwards. I've already received so many compliments from my neighbors.",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Fence Repair",
+        "text": "After a bad storm, my wood fence was damaged. Fence Factory came out quickly and repaired it perfectly. You can't even tell it was damaged. Very professional, great price, and excellent service. They saved me from having to replace the entire fence!",
+        "date": "2025-06-22"
+      },
+      {
+        "name": "Susan P.",
+        "rating": 4,
+        "service": "Aluminum Fence Installation",
+        "text": "Fence Factory installed an aluminum fence around my pool area. It looks beautiful and adds a touch of elegance to my backyard. The installation team was very professional and efficient. The only reason I'm not giving 5 stars is that there was a slight delay in getting the permit approved, but that wasn't their fault.",
+        "date": "2025-07-01"
+      },
+      {
+        "name": "Michael R.",
+        "rating": 5,
+        "service": "Gate Installation & Repair",
+        "text": "Our driveway gate was completely broken and we couldn't get in or out of our property. Fence Factory came to our rescue! They fixed the gate quickly and efficiently, and the price was very reasonable. I highly recommend them for any gate repair needs.",
+        "date": "2025-08-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Fence Factory NYC | Expert Fence Installers",
+        "description": "NYC's top-rated fence company. Wood, vinyl, chain link, aluminum. Installation & repair. Free quotes!"
+      },
+      "about": {
+        "title": "About Fence Factory | NYC Fence Company",
+        "description": "Learn about Fence Factory, our commitment to quality, and our dedication to serving the NYC community."
+      },
+      "services": {
+        "title": "Fence Services | Installation & Repair in NYC",
+        "description": "Comprehensive fence services in NYC. Wood, vinyl, chain link, aluminum fence installation & repair. Get a free estimate!"
+      },
+      "contact": {
+        "title": "Contact Fence Factory | Get a Free Quote",
+        "description": "Contact Fence Factory for a free quote on your fence project. Serving NYC and surrounding areas."
+      },
+      "reviews": {
+        "title": "Fence Factory Reviews | See What Our Customers Say",
+        "description": "Read reviews from satisfied Fence Factory customers in NYC. Quality fence installation and repair services."
+      },
+      "service-areas": {
+        "title": "Fence Service Areas | NYC and Surrounding",
+        "description": "Fence Factory serves NYC and surrounding areas. Find a fence installer near you. Free estimates."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "wood-fence-installation": "/images/service-wood-fence-installation.webp",
+      "vinyl-fence-installation": "/images/service-vinyl-fence-installation.webp",
+      "chain-link-fence-installation": "/images/service-chain-link-fence-installation.webp",
+      "aluminum-fence-installation": "/images/service-aluminum-fence-installation.webp",
+      "fence-repair": "/images/service-fence-repair.webp",
+      "gate-installation-repair": "/images/service-gate-installation-repair.webp"
+    },
+    "servicesResponsive": {
+      "wood-fence-installation": {
+        "src": "/images/service-wood-fence-installation.webp",
+        "srcset": "/images/service-wood-fence-installation-400w.webp 400w, /images/service-wood-fence-installation-800w.webp 800w, /images/service-wood-fence-installation-1200w.webp 1200w, /images/service-wood-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-fence-installation": {
+        "src": "/images/service-vinyl-fence-installation.webp",
+        "srcset": "/images/service-vinyl-fence-installation-400w.webp 400w, /images/service-vinyl-fence-installation-800w.webp 800w, /images/service-vinyl-fence-installation-1200w.webp 1200w, /images/service-vinyl-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "chain-link-fence-installation": {
+        "src": "/images/service-chain-link-fence-installation.webp",
+        "srcset": "/images/service-chain-link-fence-installation-400w.webp 400w, /images/service-chain-link-fence-installation-800w.webp 800w, /images/service-chain-link-fence-installation-1200w.webp 1200w, /images/service-chain-link-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "aluminum-fence-installation": {
+        "src": "/images/service-aluminum-fence-installation.webp",
+        "srcset": "/images/service-aluminum-fence-installation-400w.webp 400w, /images/service-aluminum-fence-installation-800w.webp 800w, /images/service-aluminum-fence-installation-1200w.webp 1200w, /images/service-aluminum-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-repair": {
+        "src": "/images/service-fence-repair.webp",
+        "srcset": "/images/service-fence-repair-400w.webp 400w, /images/service-fence-repair-800w.webp 800w, /images/service-fence-repair-1200w.webp 1200w, /images/service-fence-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gate-installation-repair": {
+        "src": "/images/service-gate-installation-repair.webp",
+        "srcset": "/images/service-gate-installation-repair-400w.webp 400w, /images/service-gate-installation-repair-800w.webp 800w, /images/service-gate-installation-repair-1200w.webp 1200w, /images/service-gate-installation-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-fence-factory.dream-surge.com/sitemap-index.xml
